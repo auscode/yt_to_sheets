@@ -4,7 +4,7 @@ import gspread
 from oauth2client.service_account import ServiceAccountCredentials
 
 # Set up API Keys and configurations
-YOUTUBE_API_KEY = ''
+YOUTUBE_API_KEY = 'YOUR YT API KEY'
 SPREADSHEET_NAME = "ytdata"
 CHANNEL_HANDLE = 'indiatoday'
 
